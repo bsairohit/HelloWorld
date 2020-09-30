@@ -1,2 +1,2 @@
 C Tutorial
-First program - print Hello World
+My First program - print Hello World
