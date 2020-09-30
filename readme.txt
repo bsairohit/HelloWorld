@@ -1,1 +1,2 @@
-this is a tutorial
+C Tutorial
+My First program - print Hello World
